@@ -57,7 +57,7 @@ const Footer = () => {
         <div className="hidden sm:block">
           <div className="flex justify-between items-center text-center py-6 border-t-2 border-gray-300/40 mx-auto">
             <span className="text-gray-400">
-              @Copyright SpFutureSpace 2024
+              @Copyright FutureSpace 2024
             </span>
           </div>
         </div>
