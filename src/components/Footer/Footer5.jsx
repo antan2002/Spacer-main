@@ -9,7 +9,7 @@ const Footer = () => {
           {/* first column */}
           <div className="py-8 px-4">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3">
-              SFutureSpace
+              FutureSpace
             </h1>
             <p className="text-gray-400">
               Subscribe to our{" "}
